@@ -1,3 +1,5 @@
+!! This project is archived and has been moved to [here](https://github.com/vokuxyz/backplane)
+
 # Backplane
 
 Backplane is a secure, websocket-based microservice communication and orchestration platform. It allows a network of servers to setup, deploy and communicate with eachother via the Backplane Client & Server API.
